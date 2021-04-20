@@ -1,115 +1,427 @@
-Type,Time,Pearls,Obsidian,String,FireRes,CryingObsidian,Glowstone,Date
-Housing,3:24,0,18,144,2,NA,NA,
-Stables Bad,2:49,5,21,40,2,NA,NA,
-Bridge,2:31,19,16,79,4,NA,NA,
-Bridge,NA,18,16,23,2,19,27,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Bridge,NA,NA,NA,NA,NA,NA,NA,
-Housing,1:48,31,15,47,1,19,29,
-Stables Bad,3:15,0,16,46,0,12,18,
-Housing,2:06,22,16,60,2,20,14,
-Housing,2:30,20,17,150,1,8,20,
-Stables,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Housing,2:46,21,15,23,3,25,25,
-Stables,2:04,19,10,59,4,7,12,
-Bridge,3:20,48,10,103,3,38,84,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Housing,2:39,51,14,35,2,12,12,
-Treasure,1:58,22,20,NA,NA,NA,NA,
-Stables,3:59,17,8,52,3,17,43,
-Bridge,3:05,48,10,64,6,22,0,
-Bridge,3:19,47,10,89,4,15,47,
-Bridge,2:19,42,10,93,2,13,40,
-Stables Bad,NA,NA,NA,NA,NA,NA,NA,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Stables Bad,NA,NA,NA,NA,NA,NA,NA,
-Bridge,NA,NA,NA,NA,NA,NA,NA,
-Housing,4:21,26,25,47,3,21,16,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Treasure,3:21,38,10,113,5,13,63,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Bridge,NA,NA,NA,NA,NA,NA,NA,
-Stables,2:29,29,24,58,4,10,12,
-Bridge,NA,NA,NA,NA,NA,NA,NA,
-Housing,4:03,7,19,128,6,21,68,
-Bridge,NA,NA,NA,NA,NA,NA,NA,
-Treasure,3:20,25,10,137,3,10,36,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Stables,4:26,18,15,36,2,16,26,
-Stables,NA,NA,NA,NA,NA,NA,NA,
-Treasure,2:19,55,11,4,4,25,45,
-Bridge,2:41,18,15,102,3,9,49,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,3:09,32,11,81,6,28,60,
-Stables,4:44,41,9,61,1,32,33,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Stables,2:11,26,22,55,5,23,30,
-Stables,2:28,21,10,51,3,21,27,
-Bridge,3:55,48,16,36,4,38,55,
-Housing,2:38,20,10,69,3,13,8,
-Housing,1:53,32,23,134,5,30,35,
-Housing,3:31,16,20,79,2,31,19,
-Stables,NA,NA,NA,NA,NA,NA,NA,
-Bridge,4:04,24,23,51,5,23,30,
-Bridge,3:17,19,19,143,3,27,48,2/28/2021
-Treasure,3:03,33,24,40,4,19,51,
-Housing,3:25,24,16,64,8,37,44,
-Bridge,2:28,38,10,59,1,11,33,
-Stables,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Treasure,2:22,27,27,148,2,15,48,
-Stables,NA,NA,NA,NA,NA,NA,NA,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,3:39,21,12,88,5,14,63,
-Bad Stables,NA,NA,NA,NA,NA,NA,NA,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Stables,NA,NA,NA,NA,NA,NA,NA,
-Stables,NA,NA,NA,NA,NA,NA,NA,
-Bad Stables,NA,NA,NA,NA,NA,NA,NA,
-Treasure,2:15,41,13,51,6,27,60,
-Bad Stables,NA,NA,NA,NA,NA,NA,NA,//
-Stables,3:56,30,10,67,4,28,17,
-Housing,3:16,20,10,62,5,18,18,
-Stables,2:26,20,20,72,5,12,106,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Bad Stables,NA,NA,NA,NA,NA,NA,NA,
-Bridge,NA,NA,NA,NA,NA,NA,NA,
-Bad Stables,NA,NA,NA,NA,NA,NA,NA,
-Bridge,2:26,37,10,113,1,14,21,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,3:05,20,12,69,4,30,61,
-Bad Stables,NA,NA,NA,NA,NA,NA,NA,
-Housing,2:15,21,10,46,3,14,34,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Treasure,2:56,12,18,71,2,19,50,
-Stables,3:45,18,10,67,3,10,52,
-Treasure,2:38,23,17,38,3,11,12,
-Treasure,3:50,28,9,81,2,25,25,
-Bridge,2:50,20,14,30,3,11,57,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Stables,2:28,26,16,62,1,17,43,
-Housing,3:23,16,24,152,6,20,49,
-Treasure,2:58,45,13,124,8,24,38,
-Treasure,2:08,38,17,63,3,6,23,
-Bad Stables,NA,NA,NA,NA,NA,NA,NA,
-Treasure,2:33,27,18,42,5,24,20,
-Treasure,2:21,55,11,118,5,13,64,
-Treasure,2:21,28,10,54,3,13,12,
-Housing,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Treasure,NA,NA,NA,NA,NA,NA,NA,
-Treasure,2:36,50,15,45,5,12,34,
-Bad Stables,NA,NA,NA,NA,NA,NA,NA,
+Type,Time,Pearls,Obsidian,String,FireRes,CryingObsidian,Glowstone,Date,Route
+Housing,NA,NA,NA,NA,NA,NA,NA,2/15/2021,Fyroah Housing
+Bridge,NA,NA,NA,NA,NA,NA,NA,2/15/2021,Dip Route
+Housing,1:48,31,15,47,1,19,29,2/15/2021,Fyroah Housing
+Housing,2:06,22,16,60,2,20,14,2/15/2021,Fyroah Housing
+Housing,2:30,20,17,150,1,8,20,2/15/2021,Fyroah Housing
+Stables,NA,NA,NA,NA,NA,NA,NA,2/15/2021,Good Gap
+Housing,2:46,21,15,23,3,25,25,2/15/2021,Fyroah Housing
+Stables,2:04,19,10,59,4,7,12,2/15/2021,Good Gap
+Bridge,3:20,48,10,103,3,38,84,2/15/2021,Dip Route
+Housing,2:39,51,14,35,2,12,12,2/15/2021,Fyroah Housing
+Stables,3:59,17,8,52,3,17,43,2/15/2021,Good Gap
+Bridge,3:05,48,10,64,6,22,0,2/15/2021,Dip Route
+Bridge,3:19,47,10,89,4,15,47,2/15/2021,Dip Route
+Bridge,2:19,42,10,93,2,13,40,2/15/2021,Dip Route
+Housing,NA,NA,NA,NA,NA,NA,NA,2/15/2021,Fyroah Housing
+Bridge,NA,NA,NA,NA,NA,NA,NA,2/15/2021,Dip Route
+Housing,4:21,26,25,47,3,21,16,2/15/2021,Fyroah Housing
+Housing,NA,NA,NA,NA,NA,NA,NA,2/15/2021,Fyroah Housing
+Housing,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Fyroah Housing
+Housing,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Fyroah Housing
+Housing,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Fyroah Housing
+Bridge,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Dip Route
+Stables,2:29,29,24,58,4,10,12,2/21/2021,Good Gap
+Bridge,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Dip Route
+Housing,4:03,7,19,128,6,21,68,2/21/2021,Fyroah Housing
+Bridge,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Dip Route
+Housing,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Fyroah Housing
+Stables,4:26,18,15,36,2,16,26,2/21/2021,Good Gap
+Stables,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Good Gap
+Bridge,2:41,18,15,102,3,9,49,2/21/2021,Dip Route
+Housing,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Fyroah Housing
+Housing,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Fyroah Housing
+Stables,4:44,41,9,61,1,32,33,2/21/2021,Good Gap
+Stables,2:11,26,22,55,5,23,30,2/21/2021,Good Gap
+Stables,2:28,21,10,51,3,21,27,2/21/2021,Good Gap
+Bridge,3:55,48,16,36,4,38,55,2/21/2021,Dip Route
+Housing,2:38,20,10,69,3,13,8,2/21/2021,Fyroah Housing
+Housing,1:53,32,23,134,5,30,35,2/21/2021,Fyroah Housing
+Housing,3:31,16,20,79,2,31,19,2/21/2021,Fyroah Housing
+Stables,NA,NA,NA,NA,NA,NA,NA,2/21/2021,Good Gap
+Bridge,4:04,24,23,51,5,23,30,2/21/2021,Dip Route
+Bridge,3:17,19,19,143,3,27,48,2/28/2021,Dip Route
+Treasure,3:03,33,24,40,4,19,51,2/28/2021,Ninjabrain
+Housing,3:25,24,16,64,8,37,44,2/28/2021,Fyroah Housing
+Bridge,2:28,38,10,59,1,11,33,2/28/2021,Dip Route
+Stables,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Good Gap
+Treasure,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Ninjabrain
+Treasure,2:22,27,27,148,2,15,48,2/28/2021,Ninjabrain
+Stables,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Good Gap
+Housing,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Fyroah Housing
+Treasure,3:39,21,12,88,5,14,63,2/28/2021,Ninjabrain
+Housing,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Fyroah Housing
+Treasure,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Ninjabrain
+Housing,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Fyroah Housing
+Stables,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Good Gap
+Stables,NA,NA,NA,NA,NA,NA,NA,2/28/2021,Good Gap
+Treasure,2:15,41,13,51,6,27,60,2/28/2021,Ninjabrain
+Stables,3:56,30,10,67,4,28,17,3/1/2021,Good Gap
+Housing,3:16,20,10,62,5,18,18,3/1/2021,Fyroah Housing
+Stables,2:26,20,20,72,5,12,106,3/1/2021,Good Gap
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Ninjabrain
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Dip Route
+Bridge,2:26,37,10,113,1,14,21,3/1/2021,Dip Route
+Housing,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Fyroah Housing
+Treasure,3:05,20,12,69,4,30,61,3/1/2021,Ninjabrain
+Bad Stables,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Ninjabrain
+Housing,2:15,21,10,46,3,14,34,3/1/2021,Bottom Manhunt
+Housing,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Fyroah Housing
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Ninjabrain
+Treasure,2:56,12,18,71,2,19,50,3/1/2021,Ninjabrain
+Stables,3:45,18,10,67,3,10,52,3/1/2021,Good Gap
+Treasure,2:38,23,17,38,3,11,12,3/1/2021,Ninjabrain
+Treasure,3:50,28,9,81,2,25,25,3/1/2021,Ninjabrain
+Bridge,2:50,20,14,30,3,11,57,3/1/2021,Dip Route
+Housing,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Fyroah Housing
+Stables,2:28,26,16,62,1,17,43,3/1/2021,Good Gap
+Housing,3:23,16,24,152,6,20,49,3/1/2021,Fyroah Housing
+Treasure,2:58,45,13,124,8,24,38,3/1/2021,Ninjabrain
+Treasure,2:08,38,17,63,3,6,23,3/1/2021,Ninjabrain
+Treasure,2:33,27,18,42,5,24,20,3/1/2021,Ninjabrain
+Treasure,2:21,55,11,118,5,13,64,3/1/2021,Ninjabrain
+Treasure,2:21,28,10,54,3,13,12,3/1/2021,Ninjabrain
+Housing,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Fyroah Housing
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Ninjabrain
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Ninjabrain
+Treasure,2:36,50,15,45,5,12,34,3/1/2021,Ninjabrain
+Treasure,2:02,40,17,87,4,14,26,3/1/2021,Ninjabrain
+Housing,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Fyroah Housing
+Stables,2:50,13,20,68,5,21,36,3/1/2021,Good Gap
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Dip Route
+Housing,1:34,26,14,122,5,17,27,3/1/2021,Bottom Manhunt
+Housing,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Bottom Manhunt
+Housing,2:59,26,21,51,3,31,28,3/1/2021,Bottom Manhunt
+Stables,NA,NA,NA,NA,NA,NA,NA,3/1/2021,Good Gap
+Treasure,2:45,19,13,52,4,13,58,3/1/2021,Ninjabrain
+Treasure,2:11,27,13,72,3,24,31,3/1/2021,Ninjabrain
+Bridge,2:11,61,10,77,3,22,32,3/13/2021,Dip Route
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Ninjabrain
+Stables,3:25,17,12,64,5,25,86,3/13/2021,Good Gap
+Stables,1:30,22,11,51,0,2,11,3/13/2021,Single Triplechest
+Treasure,2:20,19,12,59,4,21,44,3/13/2021,Ninjabrain
+Stables,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Good Gap
+Stables,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Good Gap
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Dip Route
+Stables,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Good Gap
+Treasure,3:00,44,15,37,3,42,18,3/13/2021,Ninjabrain
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Ninjabrain
+Bridge,2:46,45,15,46,1,9,30,3/13/2021,Dip Route
+Housing,1:43,37,25,64,5,24,9,3/13/2021,Top Manhunt
+Bridge,3:21,18,14,89,3,12,59,3/13/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Ninjabrain
+Housing,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Bottom Manhunt
+Treasure,2:12,22,17,56,1,34,15,3/13/2021,Ninjabrain
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Dip Route
+Stables,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Good Gap
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Ninjabrain
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Ninjabrain
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Ninjabrain
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Dip Route
+Housing,2:07,16,10,64,4,13,46,3/13/2021,Bottom Manhunt
+Bridge,2:42,37,11,41,5,23,33,3/13/2021,Dip Route
+Stables,2:26,19,20,81,3,11,17,3/13/2021,Good Gap
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Ninjabrain
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/13/2021,Dip Route
+Housing,2:00,17,11,86,1,11,27,3/13/2021,Bottom Manhunt
+Stables,NA,NA,NA,NA,NA,NA,NA,3/18/2021,Single Triplechest
+Housing,3:15,16,14,127,0,19,49,3/18/2021,Top Manhunt
+Stables,2:00,28,15,22,1,6,0,3/18/2021,Single Triplechest
+Housing,1:22,29,10,64,6,8,28,3/18/2021,Top Manhunt
+Housing,2:48,16,29,43,4,17,14,3/18/2021,Top Manhunt
+Housing,NA,NA,NA,NA,NA,NA,NA,3/18/2021,Top Manhunt
+Bridge,2:39,16,14,53,4,15,22,3/18/2021,Dip Route
+Treasure,3:42,12,11,52,4,19,42,3/18/2021,Ninjabrain
+Stables,2:54,38,11,18,2,19,30,3/18/2021,Good Gap
+Treasure,3:13,21,9,128,2,9,64,3/18/2021,Ninjabrain
+Housing,1:26,18,13,50,2,12,19,3/18/2021,Top Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/18/2021,Nnjabrain
+Bridge,3:33,12,17,128,5,40,77,3/18/2021,Dowsky Route
+Bridge,3:16,22,10,47,7,37,82,3/18/2021,Dip Route
+Housing,1:37,15,14,142,5,23,39,3/18/2021,Top Manhunt
+Treasure,2:28,23,14,62,2,12,22,3/18/2021,Ninjabrain
+Stables,2:51,29,10,87,7,26,18,3/18/2021,Good Gap
+Treasure,2:47,45,14,86,5,36,24,3/18/2021,Ninjabrain
+Stables,1:31,30,14,15,6,8,0,3/18/2021,Single Triplechest
+Treasure,2:23,17,15,56,5,5,29,3/18/2021,Ninjabrain
+Bridge,1:29,16,23,74,2,9,0,3/18/2021,Dowsky Route
+Treasure,3:19,45,10,117,3,14,39,3/18/2021,Ninjabrain
+Bridge,3:06,41,18,49,7,30,20,3/18/2021,Dip Route
+Treasure,2:59,5,22,74,4,22,32,3/18/2021,Ninjabrain
+Bridge,2:24,40,11,60,5,24,14,3/18/2021,Dowsky Route
+Housing,1:56,32,10,130,2,11,14,3/18/2021,Top Manhunt
+Housing,2:19,32,11,54,1,10,10,3/23/2021,Top Manhunt
+Bridge,2:50,10,14,78,6,25,64,3/23/2021,Dowsky Route
+Stables,2:04,33,18,43,3,17,24,3/23/2021,Single Triplechest
+Stables,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Double Triplechest
+Stables,3:20,29,13,42,4,18,55,3/23/2021,Good Gap
+Bridge,2:21,32,11,64,4,20,14,3/23/2021,Dowsky Route
+Bridge,3:15,37,13,40,5,8,19,3/23/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Housing,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Bottom Manhunt
+Bridge,2:15,5,2,16,0,17,18,3/23/2021,Single Triplechest
+Treasure,3:33,18,12,90,8,22,47,3/23/2021,Treasure Room
+Stables,1:30,26,32,89,4,7,64,3/23/2021,Double Triplechest
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Dip Route
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Dowsky Route
+Stables,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Double Triplechest
+Housing,1:41,14,10,45,5,18,44,3/23/2021,Top Manhunt
+Bridge,1:42,36,11,65,3,10,13,3/23/2021,Dip Route
+Treasure,2:58,28,10,88,2,9,34,3/23/2021,Treasure Room
+Bridge,3:56,31,13,27,4,39,69,3/23/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Bridge,2:13,40,10,96,6,23,24,3/23/2021,Dip Route
+Housing,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Bottom Manhunt
+Housing,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Bottom Manhunt
+Stables,2:43,12,14,0,5,11,11,3/23/2021,Good Gap
+Bridge,2:15,22,14,65,4,15,18,3/23/2021,Dip Route
+Treasure,3:29,19,15,53,5,12,19,3/23/2021,Treasure Room
+Stables,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Double Triplechest
+Stables,1:04,0,8,10,1,6,10,3/23/2021,Single Triplechest
+Housing,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Bottom Manhunt
+Bridge,3:44,40,10,156,4,21,77,3/23/2021,Dip Route
+Stables,1:20,12,6,30,1,10,14,3/23/2021,Single Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Housing,1:42,25,10,57,2,10,40,3/23/2021,Top Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Stables,1:16,15,8,12,3,14,0,3/23/2021,Single Triplechest
+Bridge,2:43,16,14,38,7,16,25,3/23/2021,Dip Route
+Stables,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Good Gap
+Stables,2:10,18,14,41,4,17,43,3/23/2021,Good Gap
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Dip Route
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Dip Route
+Bridge,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Dowsky Route
+Bridge,4:01,8,11,42,5,21,46,3/23/2021,Dip Route
+Stables,1:37,11,14,39,1,23,18,3/23/2021,Single Triplechest
+Housing,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Top Manhunt
+Housing,1:25,15,17,65,6,8,57,3/23/2021,Top Manhunt
+Bridge,1:50,15,17,52,7,33,5,3/23/2021,Dowsky Route
+Stables,1:32,9,13,81,3,7,15,3/23/2021,Single Triplechest
+Stables,3:07,32,13,81,5,18,31,3/23/2021,Good Gap
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+bridge,1:41,18,10,49,3,28,18,3/23/2021,Dowsky Route
+Bridge,2:38,27,20,51,3,11,55,3/23/2021,Dowsky Route
+Stables,1:57,31,13,38,1,9,26,3/23/2021,Good Gap
+Stables,1:58,24,8,78,3,18,7,3/23/2021,Single Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Bridge,2:14,15,20,103,5,32,16,3/23/2021,Dowsky Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Stables,1:44,25,13,76,6,10,23,3/23/2021,Double Triplechest
+Bridge,1:39,14,16,75,1,16,15,3/23/2021,Dowsky Route
+Stables,1:34,18,21,23,1,6,18,3/23/2021,Single Triplechest
+Bridge,3:49,17,6,86,1,15,34,3/23/2021,Dip Route
+Bridge,3:52,47,6,14,5,17,35,3/23/2021,Dip Route
+Stables,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Single Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Treasure Room
+Stables,1:25,0,15,43,3,10,20,3/23/2021,Single Triplechest
+Housing,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Bottom Manhunt
+Housing,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Bottom Manhunt
+Housing,2:23,18,12,57,5,25,35,3/23/2021,Bottom Manhunt
+Housing,NA,NA,NA,NA,NA,NA,NA,3/23/2021,Bottom Manhunt
+Stables,1:36,22,18,49,4,28,21,3/30/2021,Double Triplechest
+Bridge,2:12,31,13,39,3,14,41,3/30/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Bridge,3:37,32,10,185,4,28,49,3/30/2021,Dip Route
+Housing,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Top Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Housing,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Bottom Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+housing,1:27,24,26,50,5,18,25,3/30/2021,Bottom Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Housing,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Bottom Manhunt
+Bridge,1:38,22,17,54,1,18,11,3/30/2021,Dowsky Route
+Housing,2:06,19,13,49,4,16,49,3/30/2021,Bottom Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Housing,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Bottom Manhunt
+Housing,1:30,22,13,64,1,11,10,3/30/2021,Bottom Manhunt
+Stables,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Double Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Housing,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Bottom Manhunt
+Treasure,2:47,22,11,74,3,10,22,3/30/2021,Treasure Room
+Housing,1:29,16,10,57,2,9,25,3/30/2021,Top Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Stables,1:19,9,23,49,2,8,0,3/30/2021,Single Triplechest
+Stables,0:58,24,9,30,1,10,6,3/30/2021,Single Triplechest
+Stables,1:38,27,13,19,1,11,33,3/30/2021,Single Triplechest
+Stables,1:53,19,15,41,5,10,18,3/30/2021,Double Triplechest
+Housing,1:52,33,14,37,5,16,77,3/30/2021,Bottom Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Bridge,2:01,27,16,49,6,7,56,3/30/2021,Dowsky Route
+Bridge,2:47,31,30,65,3,19,36,3/30/2021,Dowsky Route
+Housing,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Top Manhunt
+Housing,1:54,17,17,98,4,18,16,3/30/2021,Bottom Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Bridge,1:59,21,16,31,2,17,67,3/30/2021,Dowsky Route
+Housing,1:31,53,11,122,2,12,14,3/30/2021,Top Manhunt
+Housing,1:36,16,14,45,5,13,51,3/30/2021,Bottom Manhunt
+Housing,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Top Manhunt
+Bridge,2:34,45,13,29,5,21,107,3/30/2021,Dowsky Route
+Housing,1:46,14,11,41,4,15,49,3/30/2021,Bottom Manhunt
+Stables,1:05,8,24,36,0,12,24,3/30/2021,Single Triplechest
+Stables,1:37,15,8,53,0,8,23,3/30/2021,Single Triplechest
+Stables,1:06,14,3,27,3,13,23,3/30/2021,Single Triplechest
+Housing,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Top Manhunt
+Treasure,3:52,18,17,131,4,30,30,3/30/2021,Treasure Room
+Stables,0:57,8,14,105,0,6,23,3/30/2021,Single Triplechest
+Stables,2:05,25,12,31,6,21,27,3/30/2021,Double Triplechest
+Stables,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Single Triplechest
+Stables,1:55,15,32,101,3,11,60,3/30/2021,Double Triplechest
+Treasure,3:04,16,14,77,4,12,9,3/30/2021,Treasure Room
+Housing,2:34,16,24,17,2,13,64,3/30/2021,Top Manhunt
+Housing,2:19,23,10,123,5,19,23,3/30/2021,Bottom Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Housing,1:23,17,18,55,5,11,20,3/30/2021,Top Manhunt
+Treasure,2:34,19,12,94,4,24,53,3/30/2021,Treasure Room
+Housing,2:10,22,17,126,2,48,31,3/30/2021,Bottom Manhunt
+Bridge,2:14,31,14,47,4,20,57,3/30/2021,Dowsky Route
+Stables,1:21,22,13,83,2,13,40,3/30/2021,Double Triplechest
+Stables,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Single Triplechest
+Stables,1:05,16,18,0,0,6,0,3/30/2021,Single Triplechest
+Housing,2:17,32,16,31,1,19,50,3/30/2021,Bottom Manhunt
+Stables,1:38,18,15,50,2,12,11,3/30/2021,Double Triplechest
+Stables,0:59,0,10,23,1,10,32,3/30/2021,Single Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,3/30/2021,Treasure Room
+Treasure,3:57,33,27,46,3,16,30,4/8/2021,Treasure Room
+Treasure,4:00,15,30,45,9,40,70,4/8/2021,Treasure Room
+Housing,1:31,15,18,103,3,11,21,4/8/2021,Top Manhunt
+Housing,1:33,17,14,81,1,13,34,4/8/2021,Bottom Manhunt
+Stables,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Single Triplechest
+Housing,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Bottom Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Stables,2:09,0,15,90,9,9,27,4/8/2021,Double Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Stables,1:32,11,25,88,0,20,25,4/8/2021,Single Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Stables,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Single Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Treasure,3:18,16,15,101,7,12,38,4/8/2021,Treasure Room
+Housing,2:07,16,13,45,3,6,52,4/8/2021,Bottom Manhunt
+Housing,1:38,16,15,128,3,10,0,4/8/2021,Top Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Stables,2:26,7,27,40,1,18,11,4/8/2021,Double Triplechest
+Treasure,3:48,19,26,128,5,24,44,4/8/2021,Treasure Room
+Bridge,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Dowsky Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Treasure,2:44,18,12,129,3,17,18,4/8/2021,Treasure Room
+Bridge,2:23,32,10,64,5,31,6,4/8/2021,Dowsky Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Housing,3:16,17,13,60,5,21,69,4/8/2021,Top Manhunt
+Stables,2:36,18,6,50,1,12,20,4/8/2021,Single Triplechest
+Stables,1:05,22,13,54,0,7,0,4/8/2021,Single Triplechest
+Housing,2:45,12,18,117,1,20,0,4/8/2021,Top Manhunt
+Treasure,3:57,32,9,162,1,27,34,4/8/2021,Treasure Room
+Housing,1:56,5,23,17,5,12,35,4/8/2021,Top Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Treasure,3:43,47,10,59,7,29,25,4/8/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Stables,3:24,30,16,14,5,7,22,4/8/2021,Single Triplechest
+Housing,2:05,14,12,20,6,20,24,4/8/2021,Bottom Manhunt
+Stables,2:35,12,6,12,2,21,26,4/8/2021,Single Triplechest
+Bridge,1:46,47,11,97,4,8,7,4/8/2021,Dowsky Route
+Stables,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Single Triplechest
+Stables,1:07,7,12,54,2,14,18,4/8/2021,Single Triplechest
+Stables,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Single Triplechest
+Treasure,4:05,24,14,34,7,31,41,4/8/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Housing,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Top Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/8/2021,Treasure Room
+Housing,1:53,10,19,125,4,15,41,4/8/2021,Bottom Manhunt
+Housing,1:30,26,12,50,4,7,29,4/8/2021,Bottom Manhunt
+Housing,1:23,14,10,69,5,20,34,4/8/2021,Bottom Manhunt
+Housing,1:03,24,14,87,3,12,55,4/8/2021,Bottom Manhunt
+Stables,1:21,5,4,15,2,8,19,4/8/2021,Single Triplechest
+Stables,1:12,14,4,54,4,8,12,4/8/2021,Single Triplechest
+Housing,1:45,16,20,5,7,15,35,4/8/2021,Bottom Manhunt
+Housing,1:24,40,10,78,1,27,15,4/8/2021,Top Manhunt
+Bridge,1:24,18,10,51,2,12,18,4/8/2021,Dowsky Route
+Housing,1:54,18,21,64,4,12,31,4/9/2021,Fyroah Housing
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Treasure Room
+Housing,1:30,11,21,56,3,15,22,4/9/2021,Bottom Manhunt
+Bridge,2:18,16,14,59,5,19,11,4/9/2021,Dowsky Route
+Treasure,2:52,15,16,55,3,18,6,4/9/2021,Treasure Room
+Bridge,2:04,19,27,44,3,16,15,4/9/2021,Dowsky Route
+Bridge,2:10,18,10,76,3,38,48,4/9/2021,Dowsky Route
+Stables,1:40,4,21,76,5,21,20,4/9/2021,Double Triplechest
+Treasure,3:27,17,22,46,2,20,45,4/9/2021,Treasure Room
+Treasure,2:49,15,65,4,4,30,39,4/9/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Treasure Room
+Stables,1:14,5,8,46,1,5,5,4/9/2021,Single Triplechest
+Bridge,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Dowsky Route
+Stables,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Single Triplechest
+Bridge,2:05,22,21,53,2,12,31,4/9/2021,Dowsky Route
+Bridge,2:37,24,3,112,2,12,31,4/9/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Treasure Room
+Stables,1:34,5,21,18,3,14,10,4/9/2021,Single Triplechest
+Housing,1:34,29,14,63,1,10,21,4/9/2021,Fyroah Housing
+Stables,1:20,31,0,32,1,15,0,4/9/2021,Single Triplechest
+Housing,2:13,33,11,68,2,17,44,4/9/2021,Fyroah Housing
+Stables,1:32,18,13,12,2,11,41,4/9/2021,Single Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Treasure Room
+Housing,1:58,25,16,18,6,17,48,4/9/2021,Fyroah Housing
+Bridge,2:34,21,17,77,1,22,53,4/9/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Treasure Room
+Stables,3:33,27,9,139,3,19,42,4/9/2021,Double Triplechest
+Bridge,2:15,19,15,98,2,21,39,4/9/2021,Dowsky Route
+Stables,1:05,21,16,26,2,4,15,4/9/2021,Single Triplechest
+Bridge,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Dip Route
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Treasure Room
+Treasure,2:23,19,12,57,2,7,5,4/9/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Treasure Room
+Housing,1:38,35,12,51,3,14,10,4/9/2021,Fyroah Housing
+Housing,1:44,21,21,99,1,10,60,4/9/2021,Fyroah Housing
+Treasure,3:21,20,26,94,3,6,46,4/9/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/9/2021,Treasure Room
+Stables,1:55,31,21,69,4,14,15,4/12/2021,Double Triplechest
+Housing,1:39,32,13,74,4,12,17,4/12/2021,Bottom Manhunt
+Bridge,2:09,20,20,57,3,9,32,4/12/2021,Dowsky Route
+Bridge,1:32,16,16,78,2,11,22,4/12/2021,Dowsky Route
+Treasure,3:12,23,10,58,3,15,37,4/12/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Bridge,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Dip Route
+Housing,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Top Manhunt
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Bridge,3:26,19,10,17,5,29,23,4/12/2021,Dip Route
+Housing,1:37,23,28,46,1,14,22,4/12/2021,Fyroah Housing
+Treasure,3:53,16,14,166,3,30,64,4/12/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Bridge,3:49,44,8,93,3,35,64,4/12/2021,Dip Route
+Stables,1:14,15,9,29,5,3,5,4/12/2021,Single Triplechest
+Stables,1:58,20,11,60,2,12,22,4/12/2021,Double Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Housing,1:49,6,27,47,2,5,31,4/12/2021,Fyroah Housing
+Bridge,2:14,36,10,98,3,13,15,4/12/2021,Dip Route
+Stables,1:20,5,16,36,4,9,8,4/12/2021,Single Triplechest
+Stables,1:52,33,18,83,5,23,58,4/12/2021,Double Triplechest
+Bridge,4:01,11,18,102,6,29,63,4/12/2021,Dip Route
+Bridge,1:39,17,21,64,2,5,8,4/12/2021,Dowsky Route
+Housing,1:50,21,27,79,3,18,25,4/12/2021,Fyroah Housing
+Stables,2:06,14,16,87,1,24,15,4/12/2021,Double Triplechest
+Treasure,4:33,32,17,39,2,45,19,4/12/2021,Treasure Room
+Housing,1:52,35,20,70,4,21,56,4/12/2021,Fyroah Housing
+Stables,1:18,8,17,29,1,13,7,4/12/2021,Single Triplechest
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Treasure,NA,NA,NA,NA,NA,NA,NA,4/12/2021,Treasure Room
+Treasure,3:35,23,11,70,5,32,64,4/12/2021,Treasure Room
+Stables,1:16,11,22,44,2,10,13,,Single Triplechest
+Treasure,2:24,17,10,56,2,27,19,,Treasure Room
+Treasure,4:09,13,10,52,5,19,54,,Treasure Room
